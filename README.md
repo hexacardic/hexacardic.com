@@ -1,8 +1,8 @@
-# olligobber.com
+# hexacardic.com
 
 This repo contains the code to generate the website, as well as the generated site itself.
 
-To view the website, go to [olligobber.com](https://olligobber.com/).
+To view the website, go to [hexacardic.com](https://hexacardic.com/).
 
 ## Directories
 
