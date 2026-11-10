@@ -48,7 +48,7 @@ Then, after complaining about #inline-svg[#LaTeX,] I was introduced to Typst, an
 
 #parbreak()
 
-Ignoring all the warnings about HTML export being an experimental feature, and using experience I'd gained from making a website for my gaming group, I cobbled this site together. The posts are written in Typst, which is compiled to some very minimal HTML. Haskell code then extracts the body of that HTML, and inserts it into a hand-coded HTML template. Haskell also sets up the home page with the most recent posts, a page with a list of all the posts, and pages for the tag system, all using a text file that lists the key details of every post. There's also some static HTML and CSS in the mix. Then finally, all of this is pushed to Github, where it is hosted using Github pages. You can view the code on #link("https://github.com/olligobber/olligobber.com", "Github").
+Ignoring all the warnings about HTML export being an experimental feature, and using experience I'd gained from making a website for my gaming group, I cobbled this site together. The posts are written in Typst, which is compiled to some very minimal HTML. Haskell code then extracts the body of that HTML, and inserts it into a hand-coded HTML template. Haskell also sets up the home page with the most recent posts, a page with a list of all the posts, and pages for the tag system, all using a text file that lists the key details of every post. There's also some static HTML and CSS in the mix. Then finally, all of this is pushed to Github, where it is hosted using Github pages. You can view the code on #link("https://github.com/hexacardic/hexacardic.com", "Github").
 
 #parbreak()
 

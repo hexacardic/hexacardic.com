@@ -1,7 +1,7 @@
 cabal-version: 3.0
 name: sitegenerator
 version: 0.1.0.0
-author: olligobber
+author: hexacardic
 maintainer: sirolligobbervii@yahoo.com.au
 build-type: Simple
 
